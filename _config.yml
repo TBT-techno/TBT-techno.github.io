@@ -78,9 +78,9 @@ analytics:
 # Site Author
 author:
   name             : #"Your Name"
-  avatar           : #"bio-photo.jpg"
-  bio              : #"I am an amazing person."
-  location         : "Somewhere"
+  avatar           : "bio-photo.jpg"
+  bio              : "TBT Tech."
+  location         : "California"
   email            :
   uri              :
   bitbucket        :
