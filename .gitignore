@@ -1,10 +1,31 @@
-*.sublime-project
-*.sublime-workspace
+# Created by http://www.gitignore.io
+
+### OSX ###
 .DS_Store
-.jekyll-metadata
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon
+
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+
+### Jekyll ###
+_site/
+
+### Sass ###
 .sass-cache
-_asset_bundler_cache
-_site
-codekit-config.json
-node_modules
-npm-debug.log*

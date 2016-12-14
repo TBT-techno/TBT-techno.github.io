@@ -1,180 +1,40 @@
-<!DOCTYPE HTML>
-<!--
-	Solid State by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
-<html>
-	<head>
-		<title>Tru-breed technologies</title>
-		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1" />
-		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
-		<link rel="stylesheet" href="assets/css/main.css" />
-		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
-		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
-	</head>
-	<body>
+---
+---
 
-		<!-- Page Wrapper -->
-			<div id="page-wrapper">
+<!DOCTYPE html>
+<html class="">
+<head>
+  <meta charset="UTF-8">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="{{ site.data.settings.seo.description }}">
+  <meta rel="author" href="{{ site.data.settings.seo.rel-author }}">
+  <meta rel="publisher" href="{{ site.data.settings.seo.rel-publisher }}">
 
-				<!-- Header -->
-					<header id="header" class="alt">
-						<h1><a href="index.html">Tru-breed Technologies</a></h1>
-						<nav>
-							<a href="#menu">Menu</a>
-						</nav>
-					</header>
+  <title>{{ site.data.settings.title }}</title>
 
-				<!-- Menu -->
-					<nav id="menu">
-						<div class="inner">
-							<h2>Menu</h2>
-							<ul class="links">
-								<li><a href="index.html">Home</a></li>
-								<li><a href="about.html">About</a></li>
-								<li><a href="#">Log In</a></li>
-								<li><a href="#">Sign Up</a></li>
-							</ul>
-							<a href="#" class="close">Close</a>
-						</div>
-					</nav>
+  <link rel="stylesheet" href="{{ site.github.url }}/assets/css/all.css">
+  <!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
 
-				<!-- Banner -->
-					<section id="banner">
-						<div class="inner">
-							<div class="logo"><span class="icon fa-leaf"></span></div>
-							<h2>Tru-breed Technologies</h2>
-							<p>Genomic analytics and consulting for plant breeders</p>
-						</div>
-					</section>
+  {% include analytics.html %}
+</head>
+<body>
 
-				<!-- Wrapper -->
-					<section id="wrapper">
+{% include header.html %}
 
-						<!-- One -->
-							<section id="one" class="wrapper spotlight style1">
-								<div class="inner">
-									<a href="#" class="image"><img src="images/weed-0.jpg" alt="" /></a>
-									<div class="content">
-										<h2 class="major">Plant Breeding</h2>
-										<p> The genetic diversity and ancestry composition of plant varieties can be used to direct smarter and more reliable plant breeding strategies. Find out whether your variety is stable and true-breeding based on variation at millions of genomic sites, and identify cultivars with unique genetic variation for creating new crosses.</p>
-										<a href="#" class="special">Learn more</a>
-									</div>
-								</div>
-							</section>
+{% include about.html %}
 
-						<!-- Two -->
-							<section id="two" class="wrapper alt spotlight style2">
-								<div class="inner">
-									<a href="#" class="image"><img src="images/weed-1-botanical2.jpg" alt="" /></a>
-									<div class="content">
-										<h2 class="major">Certification</h2>
-										<p>Every strain is the result of years of intense and laborious breeding. Don't let someone else use your name to market an illegitimate strain. Certify your strains to protect your intellectual property and be prepared to meet future regulations. We offer diagnostic statistics to verify the uniqueness of individual strains within the context of a vast data base of known diversity. </p>
-										<a href="#" class="special">Learn more</a>
-									</div>
-								</div>
-							</section>
+{% include work.html %}
 
-						<!-- Three -->
-							<section id="three" class="wrapper spotlight style3">
-								<div class="inner">
-									<a href="#" class="image"><img src="images/weed-2.jpg" alt="" /></a>
-									<div class="content">
-										<h2 class="major">Hybrids</h2>
-										<p>The genetics of hybrid plants is uniquely difficult to understand. We use cutting-edge statistical methods to identify with high accuracy the complex relatedness of your hybrid strains.</p>
-										<a href="#" class="special">Learn more</a>
-									</div>
-								</div>
-							</section>
+{% include clients.html %}
 
-						<!-- Four -->
-							<section id="four" class="wrapper alt style1">
-								<div class="inner">
-									<h2 class="major">Value</h2>
-									<p>Your customers want to know what they are buying. The genetic identity tells them about the traits they value in your crop. Increase your sales by giving your customers the information they need.</p>
-									<section class="features">
-										<article>
-											<a href="#" class="image"><img src="images/trichomes-2.jpg" alt="" /></a>
-											<h3 class="major">Improve your plant breeding</h3>
-											<p>Advanced breeding with genomic resources.</p>
-											<a href="#" class="special">Learn more</a>
-										</article>
-										<article>
-											<a href="#" class="image"><img src="images/pipette-2.jpg" alt="" /></a>
-											<h3 class="major">Discover the genetic history</h3>
-											<p>We provide the most advanced analytics for determining hybrid admixture proportions. What percentage <i>sativa</i> or <i>indica</i> is your strain?</p>
-											<a href="#" class="special">Learn more</a>
-										</article>
-										<article>
-											<a href="#" class="image"><img src="images/pic06.jpg" alt="" /></a>
-											<h3 class="major">Stabilize your crop</h3>
-											<p>Determine whether your strain is true-breeding.</p>
-											<a href="#" class="special">Learn more</a>
-										</article>
-										<article>
-											<a href="#" class="image"><img src="images/pic07.jpg" alt="" /></a>
-											<h3 class="major">Only Tru-breed uses the most advanced genomic sequencing available</h3>
-											<p>Our team includes researchers from several of the top universities in the world who have specialized in developing genomic techniques to study complex, hybrid plants.</p>
-											<a href="#" class="special">Learn more</a>
-										</article>
-									</section>
-									<ul class="actions">
-										<li><a href="#" class="button">Browse All</a></li>
-									</ul>
-								</div>
-							</section>
+{% include contact.html %}
 
-					</section>
+{% include form.html %}
 
-				<!-- Footer -->
-					<section id="footer">
-						<div class="inner">
-							<h2 class="major">Get in touch</h2>
-							<p>Tru-breed genomic testing is launching later this month. Until now we have been hard at work developing a genomic panel that includes representatives of the global genetic diversity in Cannabis. Contact us now to hear about special introductory offers.</p>
-							<form method="post" action="#">
-								<div class="field">
-									<label for="name">Name</label>
-									<input type="text" name="name" id="name" />
-								</div>
-								<div class="field">
-									<label for="email">Email</label>
-									<input type="email" name="email" id="email" />
-								</div>
-								<div class="field">
-									<label for="message">Message</label>
-									<textarea name="message" id="message" rows="4"></textarea>
-								</div>
-								<ul class="actions">
-									<li><input type="submit" value="Send Message" /></li>
-								</ul>
-							</form>
-							<ul class="contact">
-								<li class="fa-home">
-									Tru-breed Technologies Inc.<br />
-									1234 One Road Suite #2894<br />
-									Oakland, CA 00000-0000
-								</li>
-								<li class="fa-phone">(000) 000-0000</li>
-								<li class="fa-envelope"><a href="#">info@tru-breed.com</a></li>
-								<li class="fa-twitter"><a href="#">twitter.com/untitled-tld</a></li>
-							</ul>
-							<ul class="copyright">
-								<li>&copy; Tru-breed Technologies Inc. All rights reserved.</li>
-							</ul>
-						</div>
-					</section>
+{% include footer.html %}
 
-			</div>
-
-		<!-- Scripts -->
-			<script src="assets/js/skel.min.js"></script>
-			<script src="assets/js/jquery.min.js"></script>
-			<script src="assets/js/jquery.scrollex.min.js"></script>
-			<script src="assets/js/util.js"></script>
-			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
-			<script src="assets/js/main.js"></script>
-
-	</body>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="{{ site.github.url }}/assets/js/functions.js"></script>
+</body>
 </html>

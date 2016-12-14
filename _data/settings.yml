@@ -1,0 +1,161 @@
+#-------------------------------
+# General Site Settings
+
+title: Tru Breed Tech
+description: Genome Analytics and Consulting for Plant Breeders
+email: info@tru-breed.com
+
+# NOTE: The Logo and Background image are defined in the all.sass document.
+
+menu:
+- {name: About Us, url: '#about-us'}
+- {name: Product, url: '#work'}
+- {name: Clients, url: '#clients'}
+- {name: Contact, url: '#contact'}
+
+#-------------------------------
+# SEO Section
+
+# NOTE: Providing SEO information will make this website more searchable on the internet.
+
+seo:
+  description: 'Tru Breed Technologies provides genomic analytics for plant
+    breeders to improve quality and yields. Certify your crop to add instant
+    value today.'
+  #rel-author: 'https://plus.google.com/u/0/+DevTipsForDesigners/'
+  #rel-publisher: 'https://plus.google.com/u/0/+DevTipsForDesigners/'
+
+#-------------------------------
+# Google Analytics Section
+
+# Analytics helps you understand who visits your website.
+# Learn more at: http://support.google.com/analytics/answer/1008065
+
+# NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
+
+#google-analytics-ua: UA-XXXXXX-X
+
+#-------------------------------
+# About Section
+
+# NOTE: The avatar is defined in the all.sass document.
+
+blurb: >
+  **Certify your strain --** We offer the most advanced genome analytics in the
+  *Cannabis* industry. Find the relationship of your strain relative to other
+  popular varieties, attain estimates of stability and breeding potential, and
+  measure fine-scale proportions of *sativa* vs *indica* ancestry.
+  [Learn how our DNA sequencing and certification](#work)
+  service can help you to better understand, protect, and market your brand.
+
+
+
+other: >
+  provides an
+  order of magnitude finer resolution than our competitors and at a fraction of
+  the price. Gain the highest possible confidence for legal proceedings, and
+  verify samples throughout a supply chain.
+
+  [Protect your intellectual property](#products) and improve plant breeding strategies
+  using the most advanced genome analytics in the industry.
+  so that
+  customers can better choose their experience. Add instant value and customer
+  confidence in your product.
+
+  whether you are a grower, breeder, dispensary, or hobbyist, by marketing your strain with
+  a *Tru-Breed Certification*.
+
+  compare your strains with a curated taxonomic
+  database of the most popular varieties on the market, and a panel of historical
+  subspecies and land-races. Learn the the relationships of your strains with
+  respect to *Cannabis* globally, and their percent <i>sativa/indica/ruderalis</i>
+  ancestry.
+
+  **Market your strain with confidence** knowing that its unique history and
+  qualities have been rigorously confirmed.
+
+# (orders of magnitude more data) at a fraction of the cost.
+#  Confirm the unique genetic composition of your strain, and your right to assign
+#  to a name for your hard work.
+
+info1: >
+  report includes [ancestry information] that will tell you how your strain is related
+  to the most popular varieties on the market.
+  and compare genetic variation in your strains across **millions** of genetic sites.
+  We
+  our [services]() below, and [pricing](), and [contact us]
+
+
+
+info: >
+  by registering your unique strains and varieties into
+  our [taxonomy database](), and learn what genetic features they share with many popular
+  strains.
+
+  Our genomic report includes ancestry information to understand the history
+  of your strain and of your strain to better direct your breeding strategies.
+
+  Use genomics to protect and improve your intellectual property**. We provide
+  the most advanced genomic sequencing and consulting service for plant
+  breeders. Find the [genetic diversity]() of your varieties, learn their
+  [ancestry composition](), and direct smarter and more reliable plant breeding
+  strategies.
+
+  The genetic diversity and ancestry composition of plant varieties can be
+  used to direct smarter and more reliable plant breeding strategies.
+  Find out whether your variety is stable and true-breeding based on variation
+  at millions of genomic sites, and identify cultivars with unique genetic variation for creating new crosses.
+  **Travis specializes in making things** for human people.
+  Most of the things he makes are [digital interfaces](http://travisneilson.com){:target="_blank"},
+  but he also puts effort into crafting [next-level beats](http://soundcloud.com/travis-neilson){:target="_blank"}
+  and [YouTube videos](http://youtube.com/user/devtipsfordesigners){:target="_blank"} about making codes happen.
+
+
+# skills:
+# - {name: Communication, value: '9'}
+# - {name: Organization, value: '7'}
+# - {name: Learning, value: '10'}
+# - {name: Teaching, value: '6'}
+# - {name: Planning, value: '7'}
+# - {name: Visual Design, value: '5'}
+# - {name: UX Design, value: '8'}
+# - {name: Programming, value: '6'}
+
+#-------------------------------
+# Work Section
+
+projects:
+- {name: Our technology, folder: 'proj-our-technology', file: '/work/proj-our-technology.html'}
+- {name: Ancestry reports, folder: 'proj-admixture', file: 'work/proj-2.html'}
+- {name: Plant breeding, folder: 'proj-plant-breeding', file: 'work/proj-3.html'}
+- {name: Who we are, folder: 'proj-about-us', file: 'work/proj-5.html'}
+- {name: Privacy, folder: 'proj-privacy', file: 'work/proj-6.html'}
+- {name: Pricing, folder: 'proj-pricing', file: 'work/proj-7.html'}
+- {name: Marketing, folder: 'proj-marketing', file: 'work/proj-8.html'}
+- {name: Patenting, folder: 'proj-patent', file: 'work/proj-4.html'}
+#-------------------------------
+# Clients Section
+
+clients:
+- {avatar: 'face-aaroni.jpg',
+  name: 'Customer template',
+  title: 'Director, Company-X Inc.',
+  quote: '<p><strong>Wow, what an amazing service</strong>, our sales sky-rocketed
+  once we began marketing products with a Tru-Breed Certification! Customers love
+  knowing the history of their strains, and that the origin and name of their
+  purchase has been verified by their dispensary.</p>',
+  logo: 'logo1.png'}
+
+
+#-------------------------------
+# Contact Section
+
+social:
+- {icon: 'twitter', link: 'http://twitter.com/tru-breed-technologies'}
+#- {icon: 'dribbble', link: 'https://dribbble.com/travisneilson'}
+#- {icon: 'behance', link: 'https://www.behance.net/travisneilson'}
+#- {icon: 'youtube', link: 'https://www.youtube.com/DevTipsForDesigners'}
+#- {icon: 'linkedin', link: 'http://www.linkedin.com/in/travisneilson/'}
+
+
+# social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'

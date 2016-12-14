@@ -1,0 +1,19 @@
+# Layout settings
+
+animation: "bounceOut"
+
+# Images
+
+logo: "logo.svg"
+hero: "228H5.jpg"
+avatar: "weed-0.jpg"
+
+# Colors
+
+accent: "#c99065"
+accent-icon: "#009b50"
+
+textColor: "#666"
+headlineColor: "#333"
+bgcolor: "#e5eaee"
+documentBackgroundColor: "#fff"
