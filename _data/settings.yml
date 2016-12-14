@@ -128,7 +128,7 @@ projects:
 - {name: Our technology, folder: 'proj-our-technology', file: '/work/proj-our-technology.html'}
 - {name: Ancestry reports, folder: 'proj-admixture', file: 'work/proj-2.html'}
 - {name: Plant breeding, folder: 'proj-plant-breeding', file: 'work/proj-3.html'}
-- {name: Who we are, folder: 'proj-about-us', file: 'work/proj-5.html'}
+- {name: Who we are, folder: 'proj-about-us', file: 'work/proj-about-us.html'}
 - {name: Privacy, folder: 'proj-privacy', file: 'work/proj-6.html'}
 - {name: Pricing, folder: 'proj-pricing', file: 'work/proj-7.html'}
 - {name: Marketing, folder: 'proj-marketing', file: 'work/proj-8.html'}
