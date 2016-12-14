@@ -15,7 +15,7 @@ strains on the market with which to compare your strains. Learn the genetic
 placement of your strain, it's taxonomic distinctiveness, and use this
 information to defend legal challenges to your naming and patenting rights.
 
-![sending]({{ site.github.url }}/assets/img/work/proj-admixture/tree.svg)
+![sending]({{ site.github.url }}/assets/img/work/proj-2/tree.svg)
 
 
 Our service also provides what is currently the only available test to report
@@ -24,7 +24,7 @@ which a contemporary strain is derived from three historically distinct
 *Cannabis* taxa. Market your brand with information about its ancestry and
 composition to provide a more curated experience for your customers.
 
-![admixtureplots]({{ site.github.url }}/assets/img/work/proj-admixture/admixture.png)
+![admixtureplots]({{ site.github.url }}/assets/img/work/proj-2/admixture.png)
 
 In addition to providing individual ancestry reports for each strain that we
 sequence, we also provide **cohort reports** for each customer, with population
@@ -33,7 +33,7 @@ database. These reports can be especially valuable to plant breeders, to underst
 the diversity of strains that you wish to stabilize, and to follow the trajectory
 of new hybrid strains through successive generations of crossing.
 
-![sending]({{ site.github.url }}/assets/img/work/proj-admixture/thumb-prep.svg)
+![sending]({{ site.github.url }}/assets/img/work/proj-2/thumb-prep.svg)
 
 **Contact us today** with details of your order -- how many samples (individuals) you
 wish to sequence, and where you will be sending samples from. We will send you a simple sample preparation kit with instructions for preserving leaf/stem tissues and

@@ -2,7 +2,7 @@
 title: "our-technology"
 ---
 
-![sending]({{ site.github.url }}/assets/img/work/proj-our-technology/thumb.jpg)
+![sending]({{ site.github.url }}/assets/img/work/proj-1/thumb.jpg)
 
 #### Our genomic test yields >10X more data than our competitors
 

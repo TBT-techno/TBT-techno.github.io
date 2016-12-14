@@ -125,8 +125,8 @@ info: >
 # Work Section
 
 projects:
-- {name: Our technology, folder: 'proj-our-technology', file: '/work/proj-our-technology.html'}
-- {name: Ancestry reports, folder: 'proj-admixture', file: 'work/proj-2.html'}
+- {name: Our technology, folder: 'proj-1', file: '/work/proj-1.html'}
+- {name: Ancestry reports, folder: 'proj-2', file: 'work/proj-2.html'}
 - {name: Plant breeding, folder: 'proj-plant-breeding', file: 'work/proj-3.html'}
 - {name: Who we are, folder: 'proj-about-us', file: 'work/proj-about-us.html'}
 - {name: Privacy, folder: 'proj-privacy', file: 'work/proj-6.html'}
