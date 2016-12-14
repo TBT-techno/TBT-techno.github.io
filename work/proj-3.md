@@ -2,7 +2,7 @@
 title: "plant-breeding"
 ---
 
-![admixtureplots]({{ site.github.url }}/assets/img/work/proj-plant-breeding/thumb.jpg)
+![admixtureplots]({{ site.github.url }}/assets/img/work/proj-3/thumb.jpg)
 
 The genetic diversity and ancestry composition of plant varieties can
 be used to direct smarter and more reliable plant breeding strategies.

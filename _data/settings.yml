@@ -5,6 +5,8 @@ title: Tru Breed Tech
 description: Genome Analytics and Consulting for Plant Breeders
 email: info@tru-breed.com
 
+#<link rel="stylesheet" href="{{ site.baseurl }}/style.css">
+#<script src="{{ site.baseurl }}/js/jquery-1.11.0.js"></script>
 # NOTE: The Logo and Background image are defined in the all.sass document.
 
 menu:
@@ -127,7 +129,7 @@ info: >
 projects:
 - {name: Our technology, folder: 'proj-1', file: '/work/proj-1.html'}
 - {name: Ancestry reports, folder: 'proj-2', file: 'work/proj-2.html'}
-- {name: Plant breeding, folder: 'proj-plant-breeding', file: 'work/proj-3.html'}
+- {name: Plant breeding, folder: 'proj-3', file: 'work/proj-3.html'}
 - {name: Who we are, folder: 'proj-about-us', file: 'work/proj-about-us.html'}
 - {name: Privacy, folder: 'proj-privacy', file: 'work/proj-6.html'}
 - {name: Pricing, folder: 'proj-pricing', file: 'work/proj-7.html'}
