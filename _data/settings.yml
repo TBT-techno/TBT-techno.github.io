@@ -14,6 +14,7 @@ menu:
 - {name: Product, url: '#work'}
 - {name: Clients, url: '#clients'}
 - {name: Contact, url: '#contact'}
+- {name: Outreach, url: '#outreach'}
 
 #-------------------------------
 # SEO Section
@@ -49,8 +50,6 @@ blurb: >
   measure fine-scale proportions of *sativa* vs *indica* ancestry.
   [Learn how our DNA sequencing and certification](#work)
   service can help you to better understand, protect, and market your brand.
-
-
 
 other: >
   provides an
@@ -127,26 +126,38 @@ info: >
 # Work Section
 
 projects:
-- {name: Our technology, folder: 'proj-1', file: '/work/proj-1.html'}
+- {name: Our technology, folder: 'proj-1', file: 'work/proj-1.html'}
 - {name: Ancestry reports, folder: 'proj-2', file: 'work/proj-2.html'}
 - {name: Plant breeding, folder: 'proj-3', file: 'work/proj-3.html'}
 - {name: Who we are, folder: 'proj-about-us', file: 'work/proj-about-us.html'}
-- {name: Privacy, folder: 'proj-privacy', file: 'work/proj-6.html'}
+- {name: 'Why use us?', folder: 'proj-privacy', file: 'work/proj-6.html'}
 - {name: Pricing, folder: 'proj-pricing', file: 'work/proj-7.html'}
 - {name: Marketing, folder: 'proj-marketing', file: 'work/proj-8.html'}
-- {name: Patenting, folder: 'proj-patent', file: 'work/proj-4.html'}
+- {name: 'Trademark/Patent', folder: 'proj-patent', file: 'work/proj-4.html'}
 #-------------------------------
 # Clients Section
 
 clients:
 - {avatar: 'face-aaroni.jpg',
-  name: 'Customer template',
-  title: 'Director, Company-X Inc.',
-  quote: '<p><strong>Wow, what an amazing service</strong>, our sales sky-rocketed
-  once we began marketing products with a Tru-Breed Certification! Customers love
-  knowing the history of their strains, and that the origin and name of their
-  purchase has been verified by their dispensary.</p>',
-  logo: 'logo1.png'}
+  name: 'GG Strains',
+  title: 'Director, Gorilla Glue Medical Marijuana',
+  quote: '<p><strong>..., coming soon ...</p>',
+  logo: 'GG_logo.png'}
+- {avatar: 'face-aaroni.jpg',
+  name: 'Kiwiseeds',
+  title: 'Director, Kiwiseeds Amsterdam',
+  quote: '<p><strong>..., coming soon ...</p>',
+  logo: 'kiwi-seeds.jpg'}
+- {avatar: 'face-aaroni.jpg',
+  name: 'Darkhorse genetics',
+  title: 'Director, Darkhorse Genetics',
+  quote: '<p><strong>..., coming soon ...</p>',
+  logo: 'darkhorse.png'}
+- {avatar: 'face-aaroni.jpg',
+  name: 'Relentless',
+  title: 'Director, Relentless Genetics',
+  quote: '<p><strong>..., coming soon ...</p>',
+  logo: 'relentless.jpg'}
 
 
 #-------------------------------
@@ -158,6 +169,7 @@ social:
 #- {icon: 'behance', link: 'https://www.behance.net/travisneilson'}
 #- {icon: 'youtube', link: 'https://www.youtube.com/DevTipsForDesigners'}
 #- {icon: 'linkedin', link: 'http://www.linkedin.com/in/travisneilson/'}
+
 
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'

@@ -1,12 +1,11 @@
 ---
-title: "our-technology"
 ---
 
-![sending]({{ site.github.url }}/assets/img/work/proj-1/thumb.jpg)
+![science-image]({{ site.github.url }}/assets/img/work/proj-1/thumb.jpg)
 
 #### Our genomic test yields >10X more data than our competitors
 
-Although the cost of DNA sequencing has dropped precipitously over the last
+!!!! Although the cost of DNA sequencing has dropped precipitously over the last
 decade, genome sequencing remains prohibitively expensive for many research
 programs, such as plant breeding, where routine re-sequencing of individuals
 is necessary. Yet such genomic information is highly valuable, for its ability

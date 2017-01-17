@@ -1,6 +1,9 @@
 <section class="section-clients">
 
   <h3 id="clients">Clients</h3>
+  <div class="blurb2">
+    {{ site.data.settings.blurb2 | markdownify }}
+  </div>
 
   <div class="clients-mobile-nav">
     {% for client in site.data.settings.clients %}
